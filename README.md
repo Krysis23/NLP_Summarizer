@@ -33,7 +33,6 @@ The system uses **TF-IDF scoring and POS tagging** to identify meaningful conten
 ## 📂 Project Structure
 
 NLP-News-Summarizer/
-│
 ├── app.py              # GUI application  
 ├── requirements.txt    # Dependencies  
 └── README.md           # Project documentation  
