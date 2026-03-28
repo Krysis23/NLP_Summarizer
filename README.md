@@ -35,9 +35,6 @@ The system uses **TF-IDF scoring and POS tagging** to identify meaningful conten
 NLP-News-Summarizer/
 │
 ├── app.py              # GUI application  
-├── summarizer.py       # Core NLP logic (optional)  
-├── input.txt           # Sample input file  
-├── output.txt          # Generated summary  
 ├── requirements.txt    # Dependencies  
 └── README.md           # Project documentation  
 
